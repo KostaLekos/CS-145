@@ -83,7 +83,7 @@ public class BlackJack {
                     System.out.println("\nThe dealer hit and drew a " + dealer.getNewestCard() + 
                     " and now has a total value of " + dealer.getTotalValue() + ".");
                     if (dealer.getTotalValue() > 21) {
-                        System.out.println("The dealer has lost. All players win!");
+                        System.out.println("The dealer has lost. All remaining players win!");
 
                         for (int i = 0; i < players.size(); i++) {
                             players.remove(i);
