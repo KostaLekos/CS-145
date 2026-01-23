@@ -1,3 +1,6 @@
 [submodule "BlackJack"]
 	path = BlackJack
 	url = https://github.com/KostaLekos/BlackJack.git
+[submodule "DriveParity"]
+	path = DriveParity
+	url = https://github.com/KostaLekos/DriveParity
