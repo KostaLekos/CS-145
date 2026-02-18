@@ -4,3 +4,6 @@
 [submodule "DriveParity"]
 	path = DriveParity
 	url = https://github.com/KostaLekos/DriveParity
+[submodule "LetterCount"]
+	path = LetterCount
+	url = https://github.com/KostaLekos/LetterCount
