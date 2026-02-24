@@ -7,3 +7,6 @@
 [submodule "LetterCount"]
 	path = LetterCount
 	url = https://github.com/KostaLekos/LetterCount
+[submodule "Recursion"]
+	path = Recursion
+	url = https://github.com/KostaLekos/Recursion
