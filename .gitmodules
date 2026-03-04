@@ -10,3 +10,6 @@
 [submodule "Recursion"]
 	path = Recursion
 	url = https://github.com/KostaLekos/Recursion
+[submodule "LinkedList"]
+	path = LinkedList
+	url = https://github.com/KostaLekos/LinkedList
