@@ -13,3 +13,6 @@
 [submodule "LinkedList"]
 	path = LinkedList
 	url = https://github.com/KostaLekos/LinkedList
+[submodule "DataTypes"]
+	path = DataTypes
+	url = https://github.com/KostaLekos/Data-Types
