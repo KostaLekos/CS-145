@@ -16,3 +16,6 @@
 [submodule "DataTypes"]
 	path = DataTypes
 	url = https://github.com/KostaLekos/Data-Types
+[submodule "Inheritance"]
+	path = Inheritance
+	url = https://github.com/KostaLekos/Inheritance
